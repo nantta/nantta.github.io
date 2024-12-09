@@ -1,6 +1,7 @@
 # What is " Authorization "
 ## Authorization 
 
+From Nattapat 6530200126
 
 # CISSP Glossary
 
