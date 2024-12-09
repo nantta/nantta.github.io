@@ -1,4 +1,4 @@
-# 6530200126.github.io
+# nantta.github.io
 
 - Nattapat
    - Notto
