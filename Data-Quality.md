@@ -5,7 +5,7 @@ From Nattapat 6530200126
 
 ## From link : "https://www.precisely.com/blog/data-quality/5-characteristics-of-data-quality"
 
-##Definition
+Definition
 
 Timeliness, as the name implies, refers to how up to date information is. If it was gathered in the past hour, 
 then it’s timely – unless new information has come in that renders previous information useless.
