@@ -13,7 +13,7 @@ The timeliness of information is an important data quality characteristic,
 because information that isn’t timely can lead to people making the wrong decisions. In turn, that costs organizations time,
 money, and reputational damage.
 
-# “ Timeliness is an important data quality characteristic – out-of-date information costs companies time and money ”
+## “ Timeliness is an important data quality characteristic – out-of-date information costs companies time and money ”
 
 In today’s business environment, data quality characteristics ensure that you get the most out of your information.
 When your information doesn’t meet these standards, it isn’t valuable. Precisely provides data quality solutions to improve the accuracy,
