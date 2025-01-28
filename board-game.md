@@ -58,6 +58,6 @@
 
 - [6530200720 พฤษกรณ์ สายแวว](https://zozimboii.github.io/board-game)
 
-- [6530200738 พันธรัฐ ทะเรรัมย์]()
+- [6530200738 พันธรัฐ ทะเรรัมย์](https://phantharatt.github.io/cyber-board-game)
 
- 
+ - [BACK](https://nantta.github.io)
