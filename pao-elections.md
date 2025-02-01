@@ -5,8 +5,8 @@
 
 ### รายละเอียดของสถานที่
 - #### เขตเลือกตั้งที่ 4 บริเวณสนามฟุตซอลมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา
--   ![Image](pao_Pic1.jpg)
+-   ![](Image/pao_Pic1.jpg)
 
 
 ### Check in
-  ![Image](pao_Pic2.jpg)
+  ![Image](Image/pao_Pic2.jpg)
